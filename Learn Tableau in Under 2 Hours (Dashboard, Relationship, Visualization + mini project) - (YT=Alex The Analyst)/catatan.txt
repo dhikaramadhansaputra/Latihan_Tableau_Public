@@ -1,0 +1,16 @@
+Link tutorial = 
+
+Hal-hal yang dipelajari :
+1. Pengenalan tampilan Tableau Public
+2. Pengenalan fungsi marks :
+   - color = untuk menandari kriteria tertentu dengan warna (dimension)
+   - label = untuk memberi teks berdasarkan kriteria tertentu
+3. Pengenalan fungsi filters : untuk memfilter data yang di visualisasikan berdasarkan dimension
+4. Membuat dashboard :
+   - mengubah ukuran dashboard
+   - memasukan visualisasi ke dashboard
+5. Membuat bins (mengelompokan nilai numeric)
+6. Melihat persentase lewat 'quick table calculator'
+7. membuat measure baru dengan quick table calculation (ctrl + drag n drop ke tables)
+8.  Membuat calculation field (membuat measure baru dengan perhitungan yg kita inginkan, contoh = harga - harga produk)
+9. 
