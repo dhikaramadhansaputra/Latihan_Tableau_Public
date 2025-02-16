@@ -12,5 +12,10 @@ Hal-hal yang dipelajari :
 5. Membuat bins (mengelompokan nilai numeric)
 6. Melihat persentase lewat 'quick table calculator'
 7. membuat measure baru dengan quick table calculation (ctrl + drag n drop ke tables)
-8.  Membuat calculation field (membuat measure baru dengan perhitungan yg kita inginkan, contoh = harga - harga produk)
-9. 
+8. Membuat calculation field (membuat measure baru dengan perhitungan yg kita inginkan, contoh = harga - harga produk)
+9. Pengenalan macam-macam visualisasi :
+   - kombinasi line and bar
+   - map
+   - gant
+   - dll
+10. Joins (inner, left, right, outter)
