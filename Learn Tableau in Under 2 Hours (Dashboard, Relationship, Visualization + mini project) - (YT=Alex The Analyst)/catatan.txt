@@ -19,3 +19,11 @@ Hal-hal yang dipelajari :
    - gant
    - dll
 10. Joins (inner, left, right, outter)
+
+Mini Project (Air bnb):
+1. Import dataset
+2. Joinkan (filter ke 2016 karena terlalu banyak kalo semua)
+3. Visualisasi :
+   - zipcode mana yg Harga sewanya paling mahal?
+   - map zipcode
+   - harga paling mahal dalam setahun di bulan apa?
