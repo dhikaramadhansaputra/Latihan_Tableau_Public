@@ -27,3 +27,6 @@ Mini Project (Air bnb):
    - zipcode mana yg Harga sewanya paling mahal?
    - map zipcode
    - harga paling mahal dalam setahun di bulan apa?
+   - Harga per kamar
+   - pesaing per kamar
+4. dashboard visualisasi
