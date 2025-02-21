@@ -1,0 +1,11 @@
+Link tutorial : https://www.youtube.com/watch?v=mAYvayW77Vw
+
+dipelajari :
+1. Layout Container (macam macam container) = vertical dan horizontal
+2. Container item hierarchy = susunan container
+3. Tiled vs Float = Tiled (tableau secara otomatis melakukan layout), Float (Kita bebas atur sendiri letaknya)
+4. Dashboard Development Process = 
+   - Dashboard Mockup = membuat sketsa dashboard
+   - Container Mockup = membuat sketsa container yg dipakai
+   - Build Container = realisasi
+5. 
