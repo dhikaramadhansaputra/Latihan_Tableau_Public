@@ -1,0 +1,15 @@
+Link tutorial = https://www.youtube.com/watch?v=dahrmqT5GD4&t=872s
+
+hal yang dilakukan = 
+1. membuat relationship/join pada data source (data modelling) - done
+2. mengecek tipe data masing masing table - done
+3. mempelajari data - done
+4. membuat KPIs current year sales
+- membuat calculation field current year - ulangi semua (tipe datanya salah dari awal gabisa dibenerin. pakenya , bukan . di table order bagian sales)
+- membuat calculation field previous year
+- membuat parameter = 
+  - membuat calculation field untuk menampilkan year order date
+  - membuat parameter
+- mengganti kodingan di calculation field current & previous year jadi parameter
+- membuat calculation field untuk perbedaan persentase current year dan previous year = (jumlah current - jumlah previous)/jumlah previous, jadikan percentage (default properties, number format)
+5. 
