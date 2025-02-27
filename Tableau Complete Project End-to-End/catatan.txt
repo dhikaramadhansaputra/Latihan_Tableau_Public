@@ -19,4 +19,17 @@ hal yang dilakukan =
 - buat calculation min max values current year, cek - done
 - tambahkan ke x axis, dual axis - done
 - benerin KPis yg rusak - done
-6. 
+6. Format = 
+- remove lines and grids - done
+- remove y and x axis header - done
+- change format x axis into month - done
+- edit x jadi jan and dec only - done
+- ganti warna lines pake custom color - done
+- ganti warna buletan pake custom color (#1da2d0 main), (#ff5500, secondary) - done
+- setting opacity buletan - done
+- membuat tooltip =
+  - calculation field current year, previous year - done
+  - sales current and previous - done
+  - perbedaan current dan previous (persen) - done
+  - min max values - tidak perlu
+  - perbaiki sales, tahun (default propterties, number format) - done
