@@ -33,3 +33,5 @@ hal yang dilakukan =
   - perbedaan current dan previous (persen) - done
   - min max values - tidak perlu
   - perbaiki sales, tahun (default propterties, number format) - done
+7. membuat KPIs total profit (done)
+8. membuat KPIs quantity
