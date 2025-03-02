@@ -36,16 +36,16 @@ hal yang dilakukan =
 7. membuat KPIs total profit (done)
 8. membuat KPIs quantity - done
 9. membuat comparison sub category=
-- masukin sub kategori, PY sales, CY sales
-- format CY sales agar lebih kecil dan beda warna
-- tambahkan CY profit
+- masukin sub kategori, PY sales, CY sales - done
+- format CY sales agar lebih kecil dan beda warna - done
+- tambahkan CY profit - done
 10. format comparison = 
-- hapus semua line
-- hapus border sheet
-- clean the axis (kecuali sub kategori)
-- coloring font axis
-- ganti color profit
-- bikin KPIs sales cy < sales py, kasih logo ' ⬤ '
-- masukan KPis ke rows dan ubah warna
-- sort desc by cy sales
-- tooltip
+- hapus semua line - done
+- hapus border sheet - done
+- clean the axis (kecuali sub kategori) - done
+- coloring font axis - done
+- ganti color profit - done
+- bikin KPIs sales cy < sales py, kasih logo ' ⬤ ' - done
+- masukan KPis ke rows dan ubah warna - done
+- sort desc by cy sales - done
+- tooltip - done
