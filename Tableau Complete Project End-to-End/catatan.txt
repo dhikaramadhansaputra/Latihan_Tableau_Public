@@ -49,3 +49,14 @@ hal yang dilakukan =
 - masukan KPis ke rows dan ubah warna - done
 - sort desc by cy sales - done
 - tooltip - done
+11. Membuat weekly trends chart=
+- masukan date (week), cy sales, cy profit
+- buat references line avg
+12. format =
+- remove line - done
+- format axis - done
+- samakan format axis y - done
+- format references line (klik kanan di line nya) - done
+- ganti path line (jadi steps) - done
+- buat calculation field untuk warna above or below the avg lines dan terapkan warnanya - done
+- tooltip - done
