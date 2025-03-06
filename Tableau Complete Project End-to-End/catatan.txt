@@ -60,3 +60,18 @@ hal yang dilakukan =
 - ganti path line (jadi steps) - done
 - buat calculation field untuk warna above or below the avg lines dan terapkan warnanya - done
 - tooltip - done
+13. membuat dashboard = 
+- buat container filter (floating) - done
+- set up container sesuai mockup - done
+- masukan semua visualisasi - done
+- distribute evenly untuk setiap container (biar sama rata) - done
+- masukan navigasi ke horizontal container (biar gampang di ubah ukuran + konsisten) - done
+- jadikan filter container add/show hide buttom + jadikan hide - done
+- pastikan semuanya fit entire view - done
+- tambahkan legend untuk sub categories dan profit (custom legend) '⬤' - done
+- tambahkan judul di trends profit and sales (pakai container) - done
+- tambahkan legend di trend - done
+- tambahkan bikin + legend custom di KPIs - done
+- ubah warna background dashboard - done
+- format outter padding (masing" 10) - done
+- format inner padding (7-10) - done
