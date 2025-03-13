@@ -75,3 +75,15 @@ hal yang dilakukan =
 - ubah warna background dashboard - done
 - format outter padding (masing" 10) - done
 - format inner padding (7-10) - done
+14. Membuat customer distribution:
+- calculation field nr of order/customer + test - done
+- buat visualisasi jumlah customer per order - done
+- format - done
+- coloring, add border - done
+- label - done
+15. buat top 10 customer (drop ke filter), tambahkan rank (index, discreate), tambahkan CY profit, tambahkan count orders, the last order date - done
+16. format:
+- garis devider - done
+- background warna hapus - done
+- format index - done
+- font color - done
